@@ -1,0 +1,19 @@
+{
+  "name": "re3007",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netarotakeda/re3007.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netarotakeda/re3007/issues"
+  },
+  "homepage": "https://github.com/netarotakeda/re3007#readme"
+}
